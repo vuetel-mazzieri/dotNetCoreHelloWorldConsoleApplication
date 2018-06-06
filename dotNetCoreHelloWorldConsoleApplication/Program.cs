@@ -6,7 +6,7 @@ namespace dotNetCoreHelloWorldConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World first console app");
             Console.ReadLine();
         }
     }
